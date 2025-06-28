@@ -1,0 +1,11 @@
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ladys\OneDrive\Рабочий стол\Синергия\2 Курс обучения\Практика\Код\Кейс-задача №3\Calculator\Calculator\obj\Debug\Calculator.exe.config
